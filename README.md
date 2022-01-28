@@ -13,3 +13,6 @@ I did and described this already in a part of my Cloudberry Pi Cluster documenta
 If you are interedted in the Ubuntu installation on a Raspberry itself, please have a look here:
 [Part 3: ubuntu install](https://github.com/jegali/Cloudberry-Cluster/blob/main/ubuntu-install.md)<br/>
 Are you only interested in installing a LAMP (Linux, Apache, mySQL, PHP) environment on a Raspberry, please have a look here: [Part 7: LAMP](https://github.com/jegali/Cloudberry-Cluster/blob/main/install-lamp.md)<br/>
+
+## The webshop as a microservice archutecture
+2020 durfte ich am von Suse gesponsorten Cloud native application architecture nano degree teilnehmen. Ein wichtiger Bestandteil dieser Weiterbildung war der Einsatz von Microservices. Und so habe ich als Übung den Webshop einmal als Microservice Architecture aufgebaut. Für das Deployment gibt es ein eigenes Repository, die Installation und Konfiguration des Webshops erläutere ich später. Mehr Infos gibt es hier: [Project: Dockerized Webshop Environment](https://github.com/jegali/docker-nginx-mysql-php-phpmyadmin) 
