@@ -10,6 +10,6 @@ In this repository, I'd like to explain the different approaches to building thi
 
 ## Installing mallowz on a Raspberry Pi with Ubuntu Linux
 I did and described this already in a part of my Cloudberry Pi Cluster documentation. 
-If you are interedted in the Ubuntu installation on a Raspberry itself, please have a look here:<br/><br/>
+If you are interedted in the Ubuntu installation on a Raspberry itself, please have a look here:
 [Part 3: ubuntu install](https://github.com/jegali/Cloudberry-Cluster/blob/main/ubuntu-install.md)<br/><br/>
-https://github.com/jegali/Cloudberry-Cluster/blob/main/install-lamp.md
+Are you only interested in installing a LAMP (Linux, Apache, mySQL, PHP) environment on a Raspberry, please have a look here: [Part 7: LAMP](https://github.com/jegali/Cloudberry-Cluster/blob/main/install-lamp.md)
